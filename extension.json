@@ -5,7 +5,7 @@
   "author": "Ayssia",
   "description": "喵",
   "preview": "preview.jpg",
-  "entry": "main-river.js",
+  "entry": "script.js",
   "dependencies": {},
   "resourcepack": [],
 }
