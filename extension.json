@@ -1,0 +1,9 @@
+{
+  "id": "kexuemajiang",
+  "version": "1.0.0",
+  "name": "科学麻将",
+  "author": "Ayssia",
+  "description": "科学麻将",
+  "entry": "main-river.js",
+  "applyServer": [0, 1, 2]
+}
