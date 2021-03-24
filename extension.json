@@ -1,9 +1,11 @@
 {
-  "id": "kexuemajiang",
+  "id": "kxmj",
   "version": "1.0.0",
   "name": "科学麻将",
   "author": "Ayssia",
-  "description": "科学麻将",
+  "description": "喵",
+  "preview": "preview.jpg",
   "entry": "main-river.js",
-  "applyServer": [0, 1, 2]
+  "dependencies": {},
+  "resourcepack": [],
 }
